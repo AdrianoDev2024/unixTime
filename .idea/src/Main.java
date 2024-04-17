@@ -14,13 +14,7 @@ public class Main {
         long totalHora = totalMinutos / 60;
         long horaAtual = totalHora % 24;
 
-        System.out.println(totalMilisegundos);
-        System.out.println(totalSegundos);
-        System.out.println(segundoAltual);
-        System.out.println(totalMinutos);
-        System.out.println(minutoAtual);
-        System.out.println(totalHora);
-        System.out.println(horaAtual);
+
         System.out.println(horaAtual + ":" + minutoAtual + ":" + segundoAltual);
 
 
